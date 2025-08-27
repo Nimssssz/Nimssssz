@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Nimish Warghat  
 
-<!--
-**Nimssssz/Nimssssz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 TY CSE (AIML) @ SPIT Mumbai  
+💡 Interested in AI, Cloud Computing, and Software Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- Learning **AI & ML fundamentals**  
+- Exploring **Cloud Computing** (VMs, Docker, Kubernetes, AWS, GCP)  
+- Working towards a **career in Software Development**  
+- Curious about **UX & Design Thinking**  
+
+---
+
+## 📊 Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimssssz&layout=compact&theme=tokyonight)
