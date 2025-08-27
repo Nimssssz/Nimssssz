@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C0FF&width=435&lines=Hi%2C+I'm+Nimish+Warghat;AI+%7C+Cloud+%7C+Software+Development+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
 
-🎓 TY CSE (AIML) @ SPIT Mumbai  
+🎓 CSE (AIML) @ SPIT Mumbai  
 💡 Interested in AI, Cloud Computing, and Software Development  
 
 ---
