@@ -15,4 +15,4 @@
 
 ## 📊 Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimssssz&layout=compact&theme=tokyonight)
